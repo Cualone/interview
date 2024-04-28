@@ -1,5 +1,5 @@
 package Q001;
-/*유효한 팰린드롬*/
+/*125.유효한 팰린드롬*/
 
 import java.io.BufferedReader;
 import java.io.IOException;
