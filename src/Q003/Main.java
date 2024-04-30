@@ -47,6 +47,7 @@ public class Main {
         });
 
         letterList.addAll(digitList);
+        // 형 변환 (String[]) letterList.toArray()와 기능적으로 같다.
         return letterList.toArray(new String[0]);
     }
 }
