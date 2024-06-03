@@ -9,7 +9,7 @@ public class Main {
 
     }
 
-    public static class MyStack {
+    static class MyStack {
         Queue<Integer> queue = new LinkedList<>();
 
         public void push(int x) {
